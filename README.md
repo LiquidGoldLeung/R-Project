@@ -1,1 +1,1 @@
-"# navigating_github.md" 
+For learning purposes "\# navigating_github.md"
